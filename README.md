@@ -11,7 +11,7 @@
 * ADDED Transparent BLACK/WHITE Tab<br>
 * Set T-Black button will set The Transparent BLACK color<br>
 * Set T-White button will set The Transparent WHITE color<br>
-* When Loading ICON/CURSOR with both BLACK/WHITE Transparent COlor,you must set two diff colors for each one,otherwise they will be the same<br>
+* When Loading ICON/CURSOR with both BLACK/WHITE Transparent Color,you must set two diff colors for each one,otherwise they will be the same<br>
 * Check/UnCheck "Use" to use the transparent colors,if both checkboxes are unchecked the ICON/CURSOR will be saved with no transparent color<br>
 
 ## Build.
